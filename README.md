@@ -54,13 +54,15 @@ Purchase Amount Distribution: This visualization showed a right-skewed distribut
 ![image](https://github.com/user-attachments/assets/d2d55ca3-9136-4c04-bdf5-e7f6e0356bc7)
 
 ## Summary and Business Recommendations
-Target High-Value Customers: The significant difference between high and low-value customers emphasizes the need for businesses to cultivate relationships with high-value customers through loyalty programs or exclusive offers.
-Seasonal Campaign Planning: Since Spring and Fall are peak seasons, businesses should plan promotions, inventory, and marketing efforts accordingly to maximize sales.
-Age-Specific Marketing Strategies: Given that middle-aged customers are the most lucrative group, businesses could create premium offerings targeting this demographic, while also appealing to younger customers with trendy and affordable product options.
-Payment Method Optimization: Considering that Credit Card is the preferred payment method, businesses should ensure that their payment systems are seamless and secure, encouraging customers to complete their purchases without friction.
+- Target High-Value Customers: The significant difference between high and low-value customers emphasizes the need for businesses to cultivate relationships with high-value customers through loyalty programs or exclusive offers.
+- Seasonal Campaign Planning: Since Spring and Fall are peak seasons, businesses should plan promotions, inventory, and marketing efforts accordingly to maximize sales.
+- Age-Specific Marketing Strategies: Given that middle-aged customers are the most lucrative group, businesses could create premium offerings targeting this demographic, while also appealing to younger customers with trendy and affordable product options.
+- Payment Method Optimization: Considering that Credit Card is the preferred payment method, businesses should ensure that their payment systems are seamless and secure, encouraging customers to complete their purchases without friction.
 
 ## Final Thoughts
-Data-driven insights provide an edge in understanding customer behavior and tailoring business strategies. This analysis sheds light on valuable customer segments, seasonal trends, and spending patterns that can inform both short-term campaigns and long-term strategic initiatives. With a well-informed approach, businesses can not only boost revenue but also create a more personalized and satisfying shopping experience for their customers.
+Data-driven insights provide an edge in understanding customer behavior and tailoring business strategies. 
+This analysis sheds light on valuable customer segments, seasonal trends, and spending patterns that can inform both short-term campaigns and long-term strategic initiatives. 
+With a well-informed approach, businesses can not only boost revenue but also create a more personalized and satisfying shopping experience for their customers.
 
 Stay tuned for more data-driven articles that help bridge the gap between analytics and business strategy!
 
